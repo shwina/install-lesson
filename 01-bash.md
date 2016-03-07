@@ -1,3 +1,5 @@
+# Installation instructions
+
 ## Bash
 
 Bash is a commonly-used shell that gives you the power to do simple tasks more quickly. 
